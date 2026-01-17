@@ -5,7 +5,9 @@ Badal Singh
 Email- Singh.badal3375@gmail.com 
 
 
-DEMO LINK ---->   
+DEMO LINK ---->   https://github.com/Badal3375/reviews_detection_1/tree/main
+
+
 
 Review Detection using Machine Learning and Deep Learning
 📖 Description
